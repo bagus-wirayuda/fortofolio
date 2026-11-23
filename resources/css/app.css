@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+@import './portfolio.css';
+@import './admin.css';
+@import './responsive.css';
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@theme { --font-sans: 'Instrument Sans', 'Segoe UI', sans-serif; }
+
